@@ -1,4 +1,4 @@
-# heartattack_data
+# heartattack data project
 This dataset contains examination results of patients at a single point in time, with each row representing a unique patient. The dataset includes seven columns of information: age, sex, chest pain, fasting blood sugar, resting electrocardiogram, exercise history, and heart attack history.
 
 The "age" column represents the age of the patient in years. The "sex" column indicates the gender of the patient, with 1 representing female and 0 representing male. The "chest pain" column describes the type of chest pain experienced by the patient, with values ranging from 0 (typical chest pain) to 3 (asymptomatic).
