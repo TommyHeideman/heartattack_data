@@ -5,7 +5,7 @@ Created on Mon Apr 10 16:05:05 2023
 @author: Tommy
 """
 
-#Tommy Heideman and Joey Matusik
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
