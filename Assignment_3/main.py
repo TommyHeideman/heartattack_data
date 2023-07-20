@@ -6,7 +6,7 @@ Created on Mon Apr 10 16:05:04 2023
 """
 
 
-# Tommy Heideman and Joey Matusik
+
 
 import utilities
 
